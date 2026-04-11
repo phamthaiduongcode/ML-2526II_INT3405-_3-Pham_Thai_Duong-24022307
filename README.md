@@ -1,2 +1,2 @@
-# ML-2526II_INT3405-_3-Pham_Thai_Duong-24022307
-Bai tap ML
+This repo is done by Pham Thai Duong, contain basic knowlegde about ML.
+Contact: duongphamthai3@gmail.com
